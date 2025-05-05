@@ -14,7 +14,7 @@ Website demo bán tài khoản/dịch vụ kỹ thuật số, sử dụng Larave
 
 ## 🛠️ Công nghệ sử dụng
 
-- Laravel 10
+- Laravel 12
 - Bootstrap 5 / AdminLTE
 - MySQL
 - Blade Templating
@@ -56,18 +56,8 @@ php artisan migrate --seed
 php artisan serve
 ```
 
-Truy cập: [http://localhost:8000](http://localhost:8000)
 
-## 🧪 Tài khoản test
 
-```txt
-Email: user@example.com
-Password: 12345678
-```
-
-```txt
-Email: admin@example.com
-Password: 12345678
 ```
 
 ## 📦 Ghi chú
